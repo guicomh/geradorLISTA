@@ -14,5 +14,5 @@ Para Ataques de Força Bruta
 2. Execute o script usando o seguinte comando:
 
    ```bash
-   perl main.pl
+   perl gerador.pl
 
