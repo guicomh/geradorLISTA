@@ -1,7 +1,7 @@
 # Criando Listas para Ataque de Força Bruta
 
 Este script Perl permite crie lista em .txt
-Para Ataques de Força Bruta
+para Ataques de Força Bruta
 
 ## Requisitos
 
@@ -15,4 +15,6 @@ Para Ataques de Força Bruta
 
    ```bash
    perl gerador.pl
+
+
 
